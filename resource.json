@@ -1,0 +1,181 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://sigmaclient.info/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://sigmaclient.info/assets/icons/icon1.png",
+                    "path": "images/icon1.png"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/icons/icon2.png",
+                    "path": "images/icon2.png"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/icons/icon3.png",
+                    "path": "images/icon3.png"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/logo.png",
+                    "path": "images/logo.png"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/prev.jpg",
+                    "path": "images/prev.jpeg"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/blocks/interfaces.jpg",
+                    "path": "images/interfaces.jpeg"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/blocks/music.jpg",
+                    "path": "images/music.jpeg"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/blocks/macos.jpg",
+                    "path": "images/macos.jpeg"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/blocks/switch.jpg",
+                    "path": "images/switch.jpeg"
+                },
+                {
+                    "url": "https://sigmaclient.info/assets/blocks/installwindows.jpg",
+                    "path": "images/installwindows.jpeg"
+                },
+                {
+                    "url": "https://static.cloudflareinsights.com/beacon.min.js",
+                    "path": "js/beacon.min.js"
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js",
+                    "path": "js/particles.min.js"
+                },
+                {
+                    "url": "https://sigmaclient.info/smooth-scroll.js",
+                    "path": "js/smooth-scroll.js"
+                },
+                {
+                    "url": "https://sigmaclient.info/script.js",
+                    "path": "js/script.js"
+                },
+                {
+                    "url": "https://embed.selly.io/",
+                    "path": "js/index.js"
+                },
+                {
+                    "url": "https://sigmaclient.info/style.css",
+                    "path": "css/style.css",
+                    "children": [
+                        {
+                            "url": "https://sigmaclient.info/assets/backgrounds/bg.jpg",
+                            "path": "images/bg.jpg"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/backgrounds/bg2.png",
+                            "path": "images/bg2.png"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/skins/thomas.png",
+                            "path": "images/thomas.png"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/backgrounds/bg3.png",
+                            "path": "images/bg3.png"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/skins/leak.png",
+                            "path": "images/leak.png"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/backgrounds/bg4.png",
+                            "path": "images/bg4.png"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/skins/ilan.png",
+                            "path": "images/ilan.png"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/backgrounds/bgpremium.png",
+                            "path": "images/bgpremium.png"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/icons/gem.svg",
+                            "path": "images/gem.svg"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/icons/heart.svg",
+                            "path": "images/heart.svg"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/icons/dl.svg",
+                            "path": "images/dl.svg"
+                        },
+                        {
+                            "url": "https://sigmaclient.info/assets/prod.svg",
+                            "path": "images/prod.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.youtube.com/embed/dBixUF-9-Pg",
+                    "path": "dBixUF-9-Pg.html",
+                    "children": [
+                        {
+                            "url": "https://www.youtube.com/s/player/838cc154/www-embed-player.vflset/www-embed-player.js",
+                            "path": "js/www-embed-player.js"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/player/838cc154/player_ias.vflset/zh_CN/base.js",
+                            "path": "js/base.js"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/player/838cc154/fetch-polyfill.vflset/fetch-polyfill.js",
+                            "path": "js/fetch-polyfill.js"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/player/838cc154/www-player-webp.css",
+                            "path": "css/www-player-webp.css",
+                            "children": [
+                                {
+                                    "url": "https://www.gstatic.com/youtube/img/originals/ckee/crane-kick.png",
+                                    "path": "images/crane-kick.png"
+                                },
+                                {
+                                    "url": "https://www.gstatic.com/youtube/img/originals/ckee/crane-kick@2x.png",
+                                    "path": "images/crane-kick@2x.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.youtube.com/embed/dwTlcgW6dDA",
+                    "path": "dwTlcgW6dDA.html",
+                    "children": []
+                },
+                {
+                    "url": "https://www.youtube.com/embed/TM2xX3zN6eo",
+                    "path": "TM2xX3zN6eo.html",
+                    "children": []
+                },
+                {
+                    "url": "https://www.youtube.com/embed/QA0blHmS7Yc",
+                    "path": "QA0blHmS7Yc.html",
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
